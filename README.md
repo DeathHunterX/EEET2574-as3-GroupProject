@@ -42,12 +42,12 @@ The objective of this project is to identify regions with similar economic, defo
 
 
 
-### Data Sources
+## Data Sources
 
-#### Streaming Data
+### Streaming Data
 - Weather data sourced from the OpenWeather API.
 
-#### Saved Data and Files
+### Saved Data and Files
 
 - Vietnam deforestation data from the [Global Forest Watch website](https://www.globalforestwatch.org/map/?mainMap=eyJoaWRlTGVnZW5kIjp0cnVlLCJzaG93QW5hbHlzaXMiOnRydWV9&map=eyJjZW50ZXIiOnsibGF0IjoxNi4wMjgwMjY3MjEwNjM1NCwibG5nIjoxMDUuODA2OTAwMDAwMDAwOTV9LCJ6b29tIjo0LjYzMTg5MDk3NTA2NDc1OSwiY2FuQm91bmQiOmZhbHNlfQ%3D%3D&mapMenu=eyJzZWFyY2giOiJ2aWV0biJ9)
 
