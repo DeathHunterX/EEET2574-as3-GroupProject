@@ -64,3 +64,4 @@ Our raw data is organized in the "/data/raw" directory:
 
 ## MongoDB Chart Visualization
 Link: https://charts.mongodb.com/charts-bigdata-iewuu/public/dashboards/43633942-1da5-4522-8d1a-d5942341d20f
+(Currently the data is outdated in the database)
